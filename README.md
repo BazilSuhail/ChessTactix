@@ -2,8 +2,10 @@
 One of the projects that I made from the project I were assigned during my OOP course at ITU.
 <br>
 
-## Gmee Description:
+## Game Description:
 Chess Tactix is a two-player chess game developed in C++ using the SFML (Simple and Fast Multimedia Library). It features all the standard chess moves, the ability to save and load games via text files, and options for players to undo and redo their moves. The game offers a polished graphical interface, smooth gameplay mechanics, and comprehensive game state management.
+
+#### Check out the latest demo of Project [ChessTactix](https://aisaar.netlify.app). 
 
 ## Instructions for Installation:
 ### Dependencies:
@@ -24,7 +26,10 @@ Chess Tactix is a two-player chess game developed in C++ using the SFML (Simple 
 - **Undo and Redo Specific Move**: Saves the game states to a temporary text file and loads it back for the specific function.
 
 ## Game Screenshots
-![Main menu](https://github.com/Kharbooza978/EntitySafe/blob/main/Chess/chess1.jpg)
-![Board screenshot](https://github.com/Kharbooza978/EntitySafe/blob/main/Chess/chess5.jpg)
-![Board screenshot](https://github.com/Kharbooza978/EntitySafe/blob/main/Chess/chess5.jpg)
-![Promotion prompt](https://github.com/Kharbooza978/EntitySafe/blob/main/Chess/chess4.jpg) 
+![Main menu](https://github.com/Kharbooza978/EntitySafe/blob/main/Chess/chess2.jpg)
+### Chess Board
+![Board screenshot](https://github.com/Kharbooza978/EntitySafe/blob/main/Chess/chess3.jpg)
+### Promotion of Pawns
+![Board screenshot](https://github.com/Kharbooza978/EntitySafe/blob/main/Chess/chess4.jpg)
+### Check Condition
+![Promotion prompt](https://github.com/Kharbooza978/EntitySafe/blob/main/Chess/chess5.jpg) 
