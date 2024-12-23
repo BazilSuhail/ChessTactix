@@ -12,6 +12,7 @@ Chess Tactix is a two-player chess game developed in C++ using the SFML (Simple 
   <img alt="SFML" src="https://img.shields.io/badge/SFML-%23FF7139.svg?&style=for-the-badge&logo=sfml&logoColor=white"/> 
   <img alt="Microsoft Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
  </a>
+ 
 #### Check out the latest demo of Project [ChessTactix](https://entitysafe.netlify.app/pages/AppList/-O2LmFl1tEM2iTJ38gk_). 
 
 ## Instructions for Installation:
