@@ -1,10 +1,17 @@
 # ChessTacTix (Multiplayer Chess Game)
-One of the projects that I made from the project I were assigned during my OOP course at ITU.
+One of the projects that I made from the project I was assigned during my OOP course at ITU.
 <br>
 
 ## Game Description:
 Chess Tactix is a two-player chess game developed in C++ using the SFML (Simple and Fast Multimedia Library). It features all the standard chess moves, the ability to save and load games via text files, and options for players to undo and redo their moves. The game offers a polished graphical interface, smooth gameplay mechanics, and comprehensive game state management.
 
+### 🤖 Tech Stack 
+<a href="#"> 
+  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img alt="Object-Oriented Programming" src="https://img.shields.io/badge/OOP-%230084FF.svg?&style=for-the-badge&logo=code&logoColor=white"/>
+  <img alt="SFML" src="https://img.shields.io/badge/SFML-%23FF7139.svg?&style=for-the-badge&logo=sfml&logoColor=white"/> 
+  <img alt="Microsoft Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+ </a>
 #### Check out the latest demo of Project [ChessTactix](https://entitysafe.netlify.app/pages/AppList/-O2LmFl1tEM2iTJ38gk_). 
 
 ## Instructions for Installation:
